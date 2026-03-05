@@ -73,15 +73,15 @@
 ### 🏆 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitan-banerjee244&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypradhan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitan-banerjee244&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmaypradhan02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bitan-banerjee244&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://streak-stats.demolab.com?user=tanmaypradhan02&theme=tokyonight&hide_border=true" width="100%">
 </p>
 
 ---
