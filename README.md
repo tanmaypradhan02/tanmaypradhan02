@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Pradhan</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/ideas/coding-lofi-wallpaper/956929377029/">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaypradhan02&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaypradhan02" /> </p>
 
