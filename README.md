@@ -60,6 +60,9 @@
   <a href="https://leetcode.com/u/TanmayOps/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/tanmaypra3acd?tab=activity" target="_blank">
+    <img src="https://geeksforgeeks.zohorecruit.in/recruit/viewCareerImage.do?page_id=61093000000211152&type=logo&file_name=GG_Logo.png" height="40"/>
+  </a>
   <a href="https://www.linkedin.com/in/tanmaypradhandot/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" height="40" style="fill:#0A66C2;"/>
   </a>
