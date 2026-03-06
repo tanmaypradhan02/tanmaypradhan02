@@ -8,7 +8,7 @@
 
 <!-- Professional Subtitle -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00C9A7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Passionate+MERN+Stack+Web+Developer;AI%2FML+Enthusiast;%F0%9F%92%BB+Computer+Science+Student+%7C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00C9A7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Passionate+MERN+Stack+Web+Developer;AI%2FML+Enthusiast;%F0%9F%92%BB+Computer+Science+Student+%7C+India" alt="Typing SVG" />
 </h3>
 
 <p align="center">
