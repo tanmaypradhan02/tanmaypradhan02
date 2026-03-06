@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://thumbs.dreamstime.com/b/technology-concept-programming-web-banner-best-languages-process-software-development-126973987.jpg" alt="Banner" width="100%"/>
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Banner" width="100%"/>
 
 <!-- Typing Header -->
 <h1 align="center">
