@@ -106,7 +106,7 @@
 </p>
 
 <p>
-  <img src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" width="100%" align="right"/>
+  <img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" width="100%" align="right"/>
 </p>
 
 ---
