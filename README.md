@@ -121,7 +121,7 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmaypradhan02&theme=dracula" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmaypradhan02&theme=dracula" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmaypradhan02&theme=dracula" width="49%"/>
 </p>
 
 <p align="center">
