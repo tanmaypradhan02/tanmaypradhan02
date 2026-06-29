@@ -120,9 +120,8 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=tanmaypradhan02&theme=radical&hide_border=true&cache_seconds=86400" alt="tanmaypradhan02's GitHub Streak" width="49%" />
 </p>
-<p>
 <p align="center">
-  <img height="280em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmaypradhan02&theme=radical"
+  <img src="https://trophy.ryglcloud.net/?username=tanmaypradhan02&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tanmay Pradhan's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tanmaypradhan02&theme=radical&radius=10" alt="tanmaypradhan02's Activity Graph" />
