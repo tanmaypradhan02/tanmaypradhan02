@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=💻+Welcome+to+My+Dev+World&fontSize=30&fontAlign=50&animation=twinkling&fontColor=FFFF00"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=💻+WELCOME+TO+MY+DEV+WORLD!&fontSize=30&fontAlign=50&animation=twinkling&fontColor=FFFF00"/>
 </p>
 
 <p align="center">
